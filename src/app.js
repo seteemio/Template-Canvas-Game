@@ -30,7 +30,7 @@ class Keyboard {
 }
 let key = new Keyboard;
 
-}
+
 function init() {
     // Get a reference to the canvas
     canvas = document.getElementById('canvas');
